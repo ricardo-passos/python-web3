@@ -1,2 +1,6 @@
 .env
 compiled_code.json
+/blockchain/node_modules
+/blockchain/cache
+/blockchain/artifacts
+/blockchain/contracts
